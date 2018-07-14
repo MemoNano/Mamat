@@ -1,0 +1,8 @@
+*.log
+.idea
+*.pyc
+*.html
+*.log
+build/
+dist/
+
