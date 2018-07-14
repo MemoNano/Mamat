@@ -8,3 +8,4 @@ This 3th line of the text file I believe.
 6th time changed
 One more changed from CR-262 
 7th time changed by master
+8th time changed by master
