@@ -17,6 +17,9 @@ print('Hello guys this is branchMemo ')
 print('Hello guys this is Branch 3 changes ')
 
 print('one more commit needed from Branch3 because this line is added')
+print('hello guys this master branch commit')
+
+print('Helllo I made some changes on Branch 3')
 
 
 
@@ -27,10 +30,7 @@ print('one more commit needed from Branch3 because this line is added')
 
 
 
-
-
-
-
+#git remote add origin https://github.com/MemoNano/Mamat.git
 
 
 
