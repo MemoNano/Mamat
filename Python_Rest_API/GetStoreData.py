@@ -1,19 +1,19 @@
 store_data = {
-    "store_id": "800",
-    "store_number": "800",
-    "address1": "333 West Camden Street",
+    "store_id": "123",
+    "store_number": "123",
+    "address1": "123 West Camden Street",
     "address2": "",
     "address3": "",
     "address4": "",
     "city": "Baltimore",
     "state": "MD",
-    "postal_code": "21201",
+    "postal_code": "12201",
     "landmark": "",
-    "phone_number": "312-222-1600",
+    "phone_number": "212-222-0000",
     "country": "US",
     "timezone": "America/New_York",
     "future_order_days": 7,
-    "start_of_day": "2019-08-28T06:00:00-05:00",
+    "start_of_day": "2013-08-23T06:00:00-05:00",
     "status": "DC",
     "metadata": {
         "tip_percent_values": [
@@ -26,10 +26,10 @@ store_data = {
     },
     "hours": [
         {
-            "occasion_id": "CARRYOUT",
+            "occasion_id": "CARRrrYOUT",
             "name": "Hours",
             "interval_start_time": "06:00:00",
-            "duration": "18:45:00",
+            "duration": "23:45:00",
             "weight": 0,
             "days": [
                 3,
@@ -44,9 +44,9 @@ store_data = {
             "offset_close": 0
         },
         {
-            "occasion_id": "DELIVERY",
+            "occasion_id": "DELIiiVERY",
             "name": "Hours",
-            "interval_start_time": "06:00:00",
+            "interval_start_time": "23:00:00",
             "duration": "18:45:00",
             "weight": 0,
             "days": [
